@@ -1,6 +1,10 @@
 <h1 align="center">goit-js-hw-04</h1>
 <h2 align="center">Масиви та методи об'єкта</h2>
 <hr color="yellowgreen">
+
+<div align="center" style="color: yellowgreen">
+  ═══════════════════════════════════════
+</div>
 ---
 
 Перехід на сторінку: <a href="https://essencemaks.github.io/goit-js-hw-04/" target="_blank">https://essencemaks.github.io/goit-js-hw-04/</a>
