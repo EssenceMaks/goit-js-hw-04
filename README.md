@@ -1,6 +1,5 @@
 <h1 align="center">goit-js-hw-04</h1>
 <h1 align="center" style="color : yellowgreen" > Масиви та методи об'єкта</h2>
-<hr  style="color : rgb(154, 205, 50)" >
 
 $\color{rgb(154, 205, 50)}{\textsf{━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━}}$
 ---
