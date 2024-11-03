@@ -1,9 +1,7 @@
 <h1 align="center">goit-js-hw-04</h1>
-<h1 align="center" style="color : yellowgreen" > \color{rgba(255,0,0, 0.4)}{\textsf{lorem ipsum}} Масиви та методи об'єкта</h2>
+<h1 align="center" style="color : yellowgreen" > Масиви та методи об'єкта</h2>
 <hr  style="color : yellowgreen" >
-
-\color{rgba(255,0,0, 0.4)}{\textsf{lorem ipsum}}
-$\color{#f00}{\textsf{lorem ipsum}}$
+$\color{yellowgreen}{\textsf{━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━}}$
 ---
 
 Перехід на сторінку: <a href="https://essencemaks.github.io/goit-js-hw-04/" target="_blank">https://essencemaks.github.io/goit-js-hw-04/</a>
