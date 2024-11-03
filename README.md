@@ -1,5 +1,5 @@
 <h1 align="center">goit-js-hw-04</h1>
-<h2 align="center">Масиви та методи об'єкта</h2>
+<h2 align="center" border: 10px solid pink; >Масиви та методи об'єкта</h2>
 <hr color="yellowgreen">
 <div align="center">
   🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
