@@ -1,5 +1,5 @@
 <h1 align="center">goit-js-hw-04</h1>
-<h1 align="center" style="color : yellowgreen" >Масиви та методи об'єкта</h2>
+<h1 align="center" style="color : yellowgreen" > \color{rgba(255,0,0, 0.4)}{\textsf{lorem ipsum}} Масиви та методи об'єкта</h2>
 <hr  style="color : yellowgreen" >
 ---
 
