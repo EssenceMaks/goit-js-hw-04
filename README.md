@@ -1,6 +1,8 @@
 <h1 align="center">goit-js-hw-04</h1>
 <h1 align="center" style="color : yellowgreen" > Масиви та методи об'єкта</h2>
+
 $\color{rgb(154, 205, 50)}{\textsf{━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━}}$
+
 ---
 
 Перехід на сторінку: <a href="https://essencemaks.github.io/goit-js-hw-04/" target="_blank">https://essencemaks.github.io/goit-js-hw-04/</a>
